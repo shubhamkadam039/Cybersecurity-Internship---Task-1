@@ -74,7 +74,7 @@ PORT     STATE SERVICE
 
 - `scan-results.txt` – Nmap scan output
 - `scan-results.xml` – Nmap scan output
-- `screenshot.jpg` – Screenshot(s) of Nmap output
+- `Screenshot 2025-08-04 230810.png` – Screenshot(s) of Nmap output
 
 
 ## Interview Questions & Answers
