@@ -109,5 +109,5 @@ PORT     STATE SERVICE
 2. Find your local subnet (e.g., `192.168.1.0/24`).
 3. Run:  
    ```
-   nmap -sS 
+   nmap -sS 192.168.1.0/24
    ```
