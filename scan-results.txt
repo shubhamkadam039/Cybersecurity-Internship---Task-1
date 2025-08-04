@@ -1,0 +1,18 @@
+# Nmap 7.97 scan initiated Mon Aug  4 23:26:02 2025 as: nmap -sS -oN scan-results.txt 172.23.195.238/24
+Nmap scan report for 172.23.195.5
+Host is up (0.0044s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE SERVICE
+53/tcp open  domain
+MAC Address: 7A:A9:B9:99:04:2B (Unknown)
+
+Nmap scan report for 172.23.195.238
+Host is up (0.0020s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT     STATE SERVICE
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+7070/tcp open  realserver
+
+# Nmap done at Mon Aug  4 23:26:56 2025 -- 256 IP addresses (2 hosts up) scanned in 54.21 seconds
